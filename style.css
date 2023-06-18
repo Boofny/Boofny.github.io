@@ -1,25 +1,32 @@
+html {
+    font-family: 'Silkscreen', cursive;
+    background-color:black;
+    background-size: cover;
+    font-size:18px;
+    background-attachment:fixed;
+}
+
 body {
     margin: 0;
     padding: 0;
-  }
+}
   
-  .container {
+.container {
     background: url('Images/background.gif') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
     align-items: flex-start;
     justify-content: center;
-  }
+}
   
-  .text-box {
+.text-box {
     background-color: rgba(255, 255, 255, 0.8); 
     padding: 20px;
     max-width: 600px;
     margin-top: 100px; 
-  }
+}
   
-  h1, p {
+h1, p {
     margin: 0;
-  }
-  
+}  
