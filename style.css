@@ -4,7 +4,7 @@ body {
   }
   
   .container {
-    background: url('Images/giphy.gif') no-repeat center center fixed;
+    background: url('Images/background.gif') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
