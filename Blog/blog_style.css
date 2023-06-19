@@ -36,3 +36,8 @@ h1, h3, p {
 a:visited {
     color: white;
 }
+
+.text-box iframe {
+    margin: 20px auto; 
+    display: block;
+}
