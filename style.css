@@ -33,6 +33,10 @@ h1, h3, p {
     color: white;
 }  
 
+a:visited {
+    color: white;
+}
+
 .text-box img {
     display: block;
     margin: 0 auto;
