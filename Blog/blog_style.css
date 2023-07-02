@@ -27,7 +27,7 @@ body {
     margin-top: 100px; 
 }
   
-h1, h3, p {
+h1, h3, p, h4 {
     margin: 0;
     text-align: center;
     color: white;
