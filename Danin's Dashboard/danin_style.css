@@ -1,11 +1,11 @@
-/* Basic CSS Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Silkscreen', cursive;
   }
-  
-  /* Styling for the sidebar */
+
   .sidebar {
     position: fixed;
     top: 0;
@@ -33,10 +33,11 @@
     text-decoration: none;
   }
   
-  /* Styling for the main content */
+
   .content {
-    margin-left: 220px; /* To push content away from the sidebar */
+    margin-left: 220px; 
     padding: 20px;
+    text-align: center;
   }
   
   .content h1 {
