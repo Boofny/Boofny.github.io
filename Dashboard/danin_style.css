@@ -44,3 +44,33 @@
     margin-bottom: 20px;
   }
   
+/* Center the table */
+.table-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* Style the header row */
+table th {
+  background-color: #f2f2f2; /* Gray background color */
+  color: #000; /* Black text color */
+  padding: 10px; /* Add some padding to the cells */
+}
+
+/* Style the data rows */
+table td {
+  background-color: #fff; /* White background color */
+  color: #000; /* Black text color */
+  padding: 10px; /* Add some padding to the cells */
+}
+
+/* Add a border to the table */
+table {
+  border-collapse: collapse;
+  border: 1px solid #000; /* Black border */
+}
+
+/* Add a border to the cells */
+table th, table td {
+  border: 1px solid #000; /* Black border */
+}
